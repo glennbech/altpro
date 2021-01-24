@@ -19,7 +19,8 @@ Bergger Cot 320gsm
 * 20 g Salt
 * 1000 ml water (Destilled)
 
-Soak papers by immersion and sort through the stack a couple of times. Soak time; 1 Hour
+Soak papers by immersion and sort through the stack a couple of times. Soak time; 20 minutes
+
 Reference: Christina Zanderson.
 
 ### Sodium Citrate & Ammonion Chloride Option
