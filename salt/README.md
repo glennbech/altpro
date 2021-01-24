@@ -2,15 +2,15 @@
 
 This is a description of my current salt print process.
 
+## Paper Selection for this process
+
+Bergger Cot 320gsm
+
 ## Paper preparation
 
 * Write paper type on the paper with a pencil
 * Write intended salt (NaCl etc) on the paper with a pencil
 * Write the current date on the paper
-
-### Paper Selection for this process
-
-Bergger Cot 320gsm
 
 ### NaCL
 
