@@ -47,10 +47,18 @@ Prepare a solution of the following into tap water
 
 ## Exposure
 
-The expoure is normalized at 40millivolts pr/sqm. Exposure time with my Phillips UVA Facial tanner is 5 minutes.
-
+* The expoure is normalized at 40millivolts pr/sqm. Exposure time with my Phillips UVA
 * Make sure that the unit has constant output
 * Expose for the given time
+
+### NaCL Exposure
+
+* Exposure time is 5 minutes.
+
+### Sodium citrate / Ammonium Chloride
+
+* Exposure time is 10 minutes
+
 
 ## Processing
 
