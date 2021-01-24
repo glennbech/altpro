@@ -1,6 +1,6 @@
 # Salt print process
 
-This is a description of my current salt print process.
+This is a description of my current salt print process. It is important to stay with the same process version through an entire print cycle. One print must always be completed with one specific version of this process.
 
 ## Paper Selection for this process
 
@@ -8,20 +8,21 @@ Bergger Cot 320gsm
 
 ## Paper preparation
 
-* Write paper type on the paper with a pencil
-* Write intended salt (NaCl etc) on the paper with a pencil
+* If not done, create a Tag for this repository in the format yyyy-mm-dd-nn
+* Write this process version on the paper
+* Write the paper type on the paper with a pencil
+* Write intended paper salting option (NaCl etc) on the paper with a pencil
 * Write the current date on the paper
 
-### NaCL
+### NaCL Option
 
 * 20 g Salt
-* 1000 ml water
+* 1000 ml water (Destilled)
 
 Soak papers by immersion and sort through the stack a couple of times. Soak time; 1 Hour
-
 Reference: Christina Zanderson.
 
-### Sodium Citrate & Ammonion Chloride
+### Sodium Citrate & Ammonion Chloride Option
 
 Prepare a solution of the following into tap water
 
