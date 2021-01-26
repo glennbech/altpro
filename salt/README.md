@@ -17,7 +17,7 @@ Bergger Cot 320gsm
 ### NaCL Option
 
 * 20 g Salt
-* 1000 ml water (Destilled)
+* 1000 ml water (Tap water)
 
 Soak papers by immersion and sort through the stack a couple of times. Soak time; 20 minutes
 
@@ -29,7 +29,7 @@ Prepare a solution of the following into tap water
 
 * 20g Ammonium Chloride
 * 20g Sodium Citrate
-* Water 1000 ml
+* Water 1000 ml (Destilled)
 
 ### Paper drying
 
@@ -60,7 +60,6 @@ Prepare a solution of the following into tap water
 
 * Exposure time is 10 minutes
 
-
 ## Processing
 
 The print is processed in trays after exposure
@@ -78,9 +77,16 @@ The print is processed in trays after exposure
 
 * Wash 4 minutes. Some agitation. Swap Wash #2 water for Wash #1 water from time to time and replenish Wash #2.
 
-### Toner
+### Gold Toner (Optional)
 
-* To be decided later.
+6 Minutes
+
+* 7ml Gold chloride
+* 2g Sodium Carbonate
+* 1000 ml water
+
+If toning - Wash the paper in Tap water for 4 minutes after toning.
+Wash in running water.
 
 ### Fixing in Alkaline fixer
 
@@ -88,6 +94,13 @@ The print is processed in trays after exposure
 * 2g Sodium Carbonate (Washing soda)
 * Water 1000ml
 
-### Hyopclear (optional)
+Fix for four minutes. Clear In running water.
 
-* Recommended, but prefer longer wash time at the moment
+### Hypoclear
+
+* 1g Sodium Sulphite
+* 1000 ml water
+
+# Final wash
+
+60 miniutes in trays.
