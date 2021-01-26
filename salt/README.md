@@ -11,7 +11,8 @@ Bergger Cot 320gsm
 * If not done, create a Tag for this repository in the format yyyy-mm-dd-nn
 * Write this process version on the paper
 * Write the paper type on the paper with a pencil
-* Write intended paper salting option (NaCl etc) on the paper with a pencil
+* Write the paper salting option you plan to use (NaCl etc) on the paper with a pencil
+* Write the toner and toning time you plan to use on the paper. 
 * Write the current date on the paper
 
 ### NaCL Option
@@ -44,7 +45,7 @@ Prepare a solution of the following into tap water
 ### Post sensitizer paper drying
 
 * Natural drying, or -
-* Forced by room temperature airflow 15 minutes
+* Forced by room temperature airflow 15 minutes wither air blower / fan etc
 
 ## Exposure
 
@@ -58,7 +59,7 @@ Prepare a solution of the following into tap water
 
 ### Sodium citrate / Ammonium Chloride
 
-* Exposure time is 10 minutes
+* Exposure time is 10 minutes.
 
 ## Processing
 
@@ -79,14 +80,15 @@ The print is processed in trays after exposure
 
 ### Gold Toner (Optional)
 
-6 Minutes
+6 Minutes as a basre time. May vary. Time according what is written on the paper-
 
 * 7ml Gold chloride
 * 2g Sodium Carbonate
 * 1000 ml water
 
-If toning - Wash the paper in Tap water for 4 minutes after toning.
-Wash in running water.
+### Post toner wash 
+
+If toning - Wash the paper in Tap water for 4 minutes. Place under running water before moving on 
 
 ### Fixing in Alkaline fixer
 
