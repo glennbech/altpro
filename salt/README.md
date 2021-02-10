@@ -65,18 +65,12 @@ Prepare a solution of the following into tap water
 
 The print is processed in trays after exposure
 
-### 5% salt wash
+### 3% salt wash
 
 * Constant agitation 4 minutes. Water needs to be changed between a couple of prints
 , so make more 5% salt solution than needed.
 
 ### Tap Water Wash #1
-
-* Wash 4 minutes. Some agitation
-
-### Tap Water Wash #2
-
-* Wash 4 minutes. Some agitation. Swap Wash #2 water for Wash #1 water from time to time and replenish Wash #2.
 
 ### Gold Toner (Optional)
 
@@ -86,17 +80,27 @@ The print is processed in trays after exposure
 * 2g Sodium Carbonate
 * 1000 ml water
 
+dicard
+
 ### Post toner wash 
 
 If toning - Wash the paper in Tap water for 4 minutes. Place under running water before moving on 
 
-### Fixing in Alkaline fixer
+### Fixing in Alkaline fixer #1 
 
-* 150g Sodium Thiosulphate
+* 100g Sodium Thiosulphate
 * 2g Sodium Carbonate (Washing soda)
 * Water 1000ml
 
-Fix for four minutes. Clear In running water.
+Fix for 45 seconds
+
+### Fixing in Alkaline fixer #2 
+
+* 100g Sodium Thiosulphate
+* 2g Sodium Carbonate (Washing soda)
+* Water 1000ml
+
+Fix for 45 seconds
 
 ### Hypoclear
 
