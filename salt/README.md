@@ -72,6 +72,8 @@ The print is processed in trays after exposure
 
 ### Tap Water Wash #1
 
+Tray of tap water. To remove some of the salt before toning. 
+
 ### Gold Toner (Optional)
 
 6 Minutes as a basre time. May vary. Time according what is written on the paper-
