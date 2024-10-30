@@ -4,6 +4,11 @@
 
 Trial and error! expose until you think it's over exposed. It will lighten up in the along the process
 
+#### Example of over exposure 
+
+
+
+
 #### My Sun tanning unit
 
 7 Minutes, not pre-heated as a baseline, adjust negatives to fit. This is because this exposure produces maximum black
